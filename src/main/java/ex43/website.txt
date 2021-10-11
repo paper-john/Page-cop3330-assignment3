@@ -1,0 +1,15 @@
+main string
+    scanner takes user input for website details
+    new file created in the current path
+    character js and css is declared as N
+    if a website is created
+        print created under current path
+        try
+            file writer creates the file destination
+            if js and css is y
+                appropriate folder is created
+            else
+                folder is not created
+    else
+        website folder is not made
+    scanner closed

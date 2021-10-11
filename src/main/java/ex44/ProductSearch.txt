@@ -1,0 +1,17 @@
+main string
+    JSON parser
+    try
+        read json file and store it in obj
+        create json object
+        read the products array
+        create buffered reader that takes user input
+        create string
+        flag is equivalent to 0
+        get product name
+        while loop through iterator
+            create json
+            get name
+            if input equals name
+                print product details
+        if flag is 0
+            print product not found

@@ -1,0 +1,17 @@
+WordFinder
+    declare a new file path for the input file
+    create a file scanner
+
+    create a scanner for user input
+
+    have the user input the name they want the output file to be
+
+    create a file writer to change the input file
+        while the file has a next line
+            replace all instances of utilize with use
+
+    finally
+        close the file scanner
+
+    close the file writer
+    print that the file has been modified

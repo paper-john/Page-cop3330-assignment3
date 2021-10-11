@@ -1,0 +1,11 @@
+print details of the file name
+    try filename and scanner
+        while there is a new line
+            print placeholder
+     catch no file input
+        print file not found
+
+main string
+    print Last, First, Salary in the placeholder
+    print formatting for table
+    get data from input text file

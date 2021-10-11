@@ -1,0 +1,13 @@
+word frequency class
+    declare scanner and scan input file
+    create a map consisting of string and int
+    while file has a next line
+        str equals next line
+        if a value is read
+            add the value to the map
+        else
+            value stays the same
+
+    for string key create a new set
+        print for every value that is counted add one "*" to the histogram
+        print the table

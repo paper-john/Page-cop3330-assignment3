@@ -1,0 +1,12 @@
+readNames from Scanner
+    while there are names
+        until there is a new line
+
+output names
+    to a new file called exercise41_output.txt and format it
+    close the writer
+
+scan for input file
+    called exercise41_input.txt
+    create an list
+    sort the names in the list

@@ -1,0 +1,17 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+class Employee
+
+class printDetails{
+    string: filename
+}
+
+class main{
+    args: String[]
+}
+
+Employee <|-- printDetails
+Employee <|-- main
+
+@enduml
